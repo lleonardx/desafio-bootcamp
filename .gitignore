@@ -155,7 +155,10 @@ fabric.properties
 # *.ipr
 
 # Sonarlint plugin
+<<<<<<< HEAD
 #
+=======
+>>>>>>> 9a7cb1406477399aa7270eb0cf775efba907fa1f
 # https://plugins.jetbrains.com/plugin/7973-sonarlint
 .idea/**/sonarlint/
 
